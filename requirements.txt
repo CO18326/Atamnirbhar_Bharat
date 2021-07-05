@@ -70,7 +70,6 @@ Pillow==8.2.0
 pipwin==0.5.1
 prometheus-client==0.10.0
 prompt-toolkit==3.0.18
-PyAudio @ file:///C:/Users/91987/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycparser==2.20
 pyee==8.1.0
